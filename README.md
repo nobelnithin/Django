@@ -1,4 +1,6 @@
 # Django
 git with Django
 
-Let first start with Django installation in windows
+Let first start with Django installation in windows 
+   pip install django
+
