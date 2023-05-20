@@ -14,5 +14,7 @@ To run the web application
 this will run the web app locally
 
 To start an app, type the command
-   python manage.py startapp hello
+   python manage.py startapp my_app
+   
+After creating an app(say my_app) in the my_project, add the app in settings.py
    
