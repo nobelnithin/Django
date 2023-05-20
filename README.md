@@ -12,3 +12,7 @@ To run the web application
   python manage.py runserver
   
 this will run the web app locally
+
+To start an app, type the command
+   python manage.py startapp hello
+   
